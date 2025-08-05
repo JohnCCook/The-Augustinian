@@ -1,17 +1,15 @@
-html{
-    margin:0px;
-    padding:0px;
-
-}
 body{
     margin:0px;
     padding:0px;
 }
+/*Set up of the body*/
 .topbar{
     padding:5px;
     background-color: aquamarine;
+
     display:flex;
     justify-content:center;
+    /*Getting the top bar elements in a row*/
 }
 .topbarElement{
     margin:2px;

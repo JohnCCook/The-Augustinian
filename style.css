@@ -1,0 +1,20 @@
+html{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    margin:0px;
+    padding:0px;
+}
+.topbar{
+    padding:5px;
+    background-color: aquamarine;
+    display:flex;
+    justify-content:center;
+}
+.topbarElement{
+    margin:2px;
+    padding:5px;
+    background-color:white;
+}
